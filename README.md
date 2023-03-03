@@ -10,9 +10,9 @@ Hi I'm Savannah! I'm a senior student at Wayne State University completing my Ba
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=savvyp&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=savvyp&theme=tokyonight&hide_border=false)<br/>
-[![Sav's GitHub stats](https://github-readme-stats.vercel.app/api?username=savvyp)](https://github.com/anuraghazra/github-readme-stats)
-![Sav's GitHub stats](https://github-readme-stats.vercel.app/api?username=savvyp&show_icons=true)
-![Sav's GitHub stats](https://github-readme-stats.vercel.app/api?username=savvyp&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savvyp&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=savvyp&icon=0&color=0)](https://visitcount.itsvg.in)
