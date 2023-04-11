@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Savannah! I'm a senior student at Wayne State University completing my Bachelors degree in Computer Science.<br><br>My most used languages include C++, Java, Python, and Dart.<br><br>My most recent completed full-stack project was SafeFoodie with a team of 5 other's.<br><br>You can reach me by:<br><br>email: spapp1113@gmail.com<br>https://www.linkedin.com/in/savannah-papp/
+Hi I'm Savannah! I'm a senior student at Wayne State University completing my Bachelors degree in Computer Science.<br><br>My most used languages include C++, Java, Python, React, and Dart.<br><br>My most recent completed full-stack project was SafeFoodie with a team of 5 other's.<br><br>You can reach me by:<br><br>email: spapp1113@gmail.com<br>https://www.linkedin.com/in/savannah-papp/
 
 
 ## 🌐 Socials:
